@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GlenRoarke
 - 👀 I’m interested in bioinformatics and biological data analysis 
-- 🌱 I’m currently learning an MSc in bioinformatics
+- 🌱 I’m currently studying an MSc in bioinformatics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
